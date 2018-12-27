@@ -17,6 +17,8 @@ Flutter是谷歌的移动应用SDK，用于在创纪录的时间内在iOS和Andr
 
 [awesome-flutter（GitHub）](https://github.com/Solido/awesome-flutter)   一个很棒的列表，可以管理最好的Flutter库，工具，教程，文章等。
 
+[GankFlutter(Github)](https://github.com/ZQ330093887/GankFlutter)  参考案例，干货集中营 客户端 Flutter版
+
 ![](https://raw.githubusercontent.com/Blue-Oranges/CnblogApp/master/IMG/dart.png)
 
 编程语言：Google的前端和移动端语言：Dart 
