@@ -4,7 +4,7 @@
 Flutter简介：
 
 Flutter可以轻松快速地构建漂亮的移动应用程序。
-Flutter是谷歌的移动应用SDK，用于在创纪录的时间内在iOS和Android上制作高质量的原生界面。Flutter与现有代码一起使用，被世界各地的开发人员和组织使用，并且是免费和开源的。
+Flutter是谷歌的移动应用SDK，用于短时间内在iOS和Android上制作高质量的原生界面应用。Flutter与现有代码一起使用，被世界各地的开发人员和组织使用，并且是免费和开源的。
 
 
 [Flutter（GitHub）](https://github.com/flutter/flutter)
