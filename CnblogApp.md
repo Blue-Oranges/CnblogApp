@@ -23,6 +23,8 @@ Flutter是谷歌的移动应用SDK，用于短时间内在iOS和Android上制作
 
 [Flutter热文（掘金）](https://www.jianshu.com/p/93b222357183)
 
+[Flutter视频教程（Bilibli）](http://space.bilibili.com/29302915/favlist?fid=2994157)
+
 ![](https://raw.githubusercontent.com/Blue-Oranges/CnblogApp/master/IMG/dart.png)
 
 ------
