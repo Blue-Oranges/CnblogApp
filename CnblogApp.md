@@ -19,6 +19,8 @@ Flutter是谷歌的移动应用SDK，用于短时间内在iOS和Android上制作
 
 [GankFlutter(GitHub)](https://github.com/ZQ330093887/GankFlutter)  参考案例，干货集中营 客户端 Flutter版。
 
+[Flutter-go](https://github.com/alibaba/flutter-go) Flutter 开发者帮助 APP，包含 flutter 常用 140+ 组件的demo 演示与中文文档
+
 [Flukit（GitHub）](https://github.com/flutterchina/flukit) 一个Flutter的UI工具包，一个Flutter UI组件库。
 
 [Flutter热文（掘金）](https://www.jianshu.com/p/93b222357183)
